@@ -1,0 +1,5 @@
+This is a minimalist implementation of a pizza restaurant using Windows Form in Microsoft Visual Studio.
+
+Bugs:
+Closing the Order Form by using the X won't end the program.
+To close the program return to the Authentication Form and close it by using the X.
