@@ -1,0 +1,10 @@
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\bin\Debug\Restaurant_Pizza.exe.config
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\bin\Debug\Restaurant_Pizza.exe
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\bin\Debug\Restaurant_Pizza.pdb
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\obj\Debug\Restaurant_Pizza.csprojAssemblyReference.cache
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\obj\Debug\Restaurant_Pizza.Properties.Resources.resources
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\obj\Debug\Restaurant_Pizza.csproj.GenerateResource.cache
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\obj\Debug\Restaurant_Pizza.exe
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\obj\Debug\Restaurant_Pizza.pdb
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\obj\Debug\Restaurant_Pizza.AuthenticationForm.resources
+C:\Users\ilies\source\repos\Restaurant_Pizza\Restaurant_Pizza\obj\Debug\Restaurant_Pizza.MenuForm.resources
